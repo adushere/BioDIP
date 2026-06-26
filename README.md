@@ -49,3 +49,7 @@ Repository Content
 
 License
 This project is released as open source to promote collaboration, transparency, and reproducible biodiversity research
+
+
+Contact
+Dr Aditi Sunil Shere-Kharwar, Associate Professor, Department of Zoology, RNC Arts, JDB Commerce & NSC Sceince College, Nashik, Maharashtra, India, Email: adushere@gmail.com; Mobile : +919372571926; ORCID: https://orcid.org/0000-0002-5247-6188 
