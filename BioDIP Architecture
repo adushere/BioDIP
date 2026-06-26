@@ -1,0 +1,60 @@
+
+🟦 DATA SOURCES
+   ├─ Occurrence databases (GBIF)
+   ├─ Molecular repositories (BOLD, GenBank)
+   ├─ Taxonomic databases
+   ├─ Environmental datasets
+   ├─ Trait databases
+   └─ User datasets
+
+                    ↓
+
+🟩 DATA ACQUISITION
+   ├─ API retrieval
+   ├─ Bulk downloads
+   ├─ Data import
+
+                    ↓
+
+🟨 DATA HARMONIZATION
+   ├─ Taxonomy standardization
+   ├─ Metadata standardization
+   ├─ Geographic standardization
+
+                    ↓
+
+🟧 DATA INTEGRATION
+   ├─ Species-level integration
+   ├─ Geographic integration
+   ├─ Multi-source linking
+
+                    ↓
+
+🟥 QUALITY CONTROL
+   ├─ Duplicate removal
+   ├─ Missing data assessment
+   ├─ Spatial validation
+   ├─ Sequence quality assessment
+
+                    ↓
+
+🟪 ANALYSIS
+   ├─ Diversity analysis
+   ├─ Gap analysis
+   ├─ Molecular analysis
+   ├─ Spatial analysis
+
+                    ↓
+
+🟫 VISUALIZATION
+   ├─ Maps
+   ├─ Graphs
+   ├─ Dashboards
+
+                    ↓
+
+⬛ INTERPRETATION & DECISION SUPPORT
+   ├─ Priority taxa
+   ├─ Priority regions
+   ├─ Sampling recommendations
+   └─ Conservation recommendations
