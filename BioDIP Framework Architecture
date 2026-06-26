@@ -1,0 +1,17 @@
+BIODIP WORKFLOW
+
+Data Sources
+      ↓
+Data Acquisition
+      ↓
+Data Harmonization
+      ↓
+Data Integration
+      ↓
+Quality Control
+      ↓
+Analytical Modules
+      ↓
+Visualization
+      ↓
+Interpretation & Decision Support
