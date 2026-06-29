@@ -1,5 +1,5 @@
-                                       BioDIP (Biodiversity Data Integration Protocol)
-        An Integrated Framework for Automated DNA Barcode Library Construction, Biodiversity Data Integration,and Biodiversity Analytics 
+BioDIP (Biodiversity Data Integration Protocol)
+An Integrated Framework for Automated DNA Barcode Library Construction, Biodiversity Data Integration,and Biodiversity Analytics 
         “Transforming fragmented biodiversity data into actionable biodiversity knowledge”
 
 
